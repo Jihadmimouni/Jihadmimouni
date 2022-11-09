@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jihadmimouni
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning software engineering
 - 📫 How to reach me discord(GL1TCH#5806)
 
 <!---
